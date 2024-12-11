@@ -1,0 +1,18 @@
+8) What is the significance of “%” and “_” operators in the LIKE statement?
+ 	- %  is basicaly operator it helps us to understand or help to manuplate database to give right Position of Characters Before ,After "% Like %
+	- "_" underscore help to count the Exact instance in letter 
+	- Like statement help us to give the perfect match in statement Pattern
+9) Explain normalization in the context of databases.
+- it help to organise database and Remove Redundancy for Avoid Duplicate record and Database must be Organise and Clean
+
+10) What does a join in MySQL mean?
+- It help to Join Two or more Table based on Primary key whcih is Same but Unique Column in Tables .
+
+11) What do you understand about DDL, DCL, and DML in MySQL?
+- DDL it is Data Defination Language we use Create, Alter, Drop, Truncate
+
+- DCL - Data Control Language Grant and Revoke
+	Grant is use for Giving Access to Specific Database Object, or Function
+	Revoke is use for Delete that Perticular Access
+
+- DML Data Manuplation Language insert, Update, Delete
